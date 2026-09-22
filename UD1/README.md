@@ -30,7 +30,7 @@ sudo apt install git
 4. Configurar repositorio git (en la carpeta principal del proyecto)
 ```bash
 git init
-git add
+git add .
 git commit -m "Comentario descriptivo"
 ```
 
